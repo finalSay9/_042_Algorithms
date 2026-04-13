@@ -1,4 +1,4 @@
-from Node import Node_a
+from py_algorithims.Binary_S_T.Node import Node_a
 
 class  BST:
     def __init__(self):
